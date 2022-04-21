@@ -1,0 +1,5 @@
+- 👋 Hi, I’m João Victor
+- 👀 I’m interested in Learning programming, front and back end.
+- 🌱 I’m currently learning C at my university, HTML and CSS by myself.
+- 💞️ I’m looking to collaborate on anything from design to code, im mostly learning at the momment.
+- 📫 How to reach me: my instagram = The_.Jaum
